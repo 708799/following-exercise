@@ -1,0 +1,13 @@
+h1 {
+  color: darkviolet;
+  text-decoration: underline deepskyblue;
+}
+
+h2 {
+  color: cornflowerblue;
+}
+
+body {
+  text-align: center;
+  border: 4px solid seagreen;
+}
